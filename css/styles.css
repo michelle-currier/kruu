@@ -1,0 +1,30 @@
+html, body {
+    font-family: 'Raleway', sans-serif;
+}
+.h-50 {
+    height: 50%;
+}
+.mx-300 {
+    width: 300px;
+}
+.carousel {
+    width: 360px;
+}
+.carousel-inner {
+    text-align: center;
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 8%;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-image: url("../arrow.png") !important;
+    height: 22px;
+    width: 16px;
+    background-size: cover;
+}
+.carousel-control-next-icon {
+    background-position-x: -18px;
+}
+.carousel-control-prev-icon {
+    background-position-x: -1px;
+}
