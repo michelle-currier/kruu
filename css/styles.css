@@ -17,7 +17,7 @@ html, body {
     width: 8%;
 }
 .carousel-control-prev-icon, .carousel-control-next-icon {
-    background-image: url("../arrow.png") !important;
+    background-image: url("../img/arrow.png") !important;
     height: 22px;
     width: 16px;
     background-size: cover;
